@@ -1,6 +1,6 @@
 'use strict';
 
-const VehicleConstructor = require('../vehicle-constructor.js/index.js');
+const VehicleConstructor = require('../vehicle-constructor.js');
 
 let types = ['Constructor'];
 
@@ -10,10 +10,10 @@ describe('Vehicles', () => {
     
     function getCar(type) {
       switch(type) {
-        case 'Constructor':
-          return new VehicleConstructor.Car('foo');
-        default:
-          return {};
+      case 'Constructor':
+        return new VehicleConstructor.Car('foo');
+      default:
+        return {};
       }
     }
     
@@ -44,10 +44,10 @@ describe('Vehicles', () => {
 
     function getMotorcycle(type) {
       switch(type) {
-        case 'Constructor':
-          return new VehicleConstructor.Motorcycle('foo');
-        default:
-          return {};
+      case 'Constructor':
+        return new VehicleConstructor.Motorcycle('foo');
+      default:
+        return {};
       }
     }
 
