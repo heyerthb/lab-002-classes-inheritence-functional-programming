@@ -7,6 +7,7 @@
 ### Links and Resources
 * [submission PR](http://xyz.com)
 * [travis](https://travis-ci.com/heyerthb/lab-002-classes-inheritence-functional-programming)
+* [heroku](https://dashboard.heroku.com/apps/lab-002-heyert) 
 * [back-end](http://xyz.com) (when applicable)
 * [front-end](http://xyz.com) (when applicable)
 
