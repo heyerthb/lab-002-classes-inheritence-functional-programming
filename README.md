@@ -5,7 +5,7 @@
 ### Author: Student/Group Name
 
 ### Links and Resources
-* [submission PR](http://xyz.com)
+* [submission PR](https://github.com/heyerthb/lab-002-classes-inheritence-functional-programming/pulls)
 * [travis](https://travis-ci.com/heyerthb/lab-002-classes-inheritence-functional-programming)
 * [heroku](https://dashboard.heroku.com/apps/lab-002-heyert) 
 * [back-end](http://xyz.com) (when applicable)
