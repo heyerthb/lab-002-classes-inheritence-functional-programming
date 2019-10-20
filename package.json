@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/heyerthb/lab-002-classes-inheritence-functional-programming#readme",
   "dependencies": {
-    "jest": "^24.9.0"
+    "jest": "^24.9.0",
+    "lint": "^0.7.0"
   }
 }
