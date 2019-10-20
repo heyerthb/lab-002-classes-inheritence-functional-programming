@@ -1,0 +1,25 @@
+{
+  "name": "lab-002-classes-inheritence-functional-programming",
+  "version": "1.0.0",
+  "description": "## Project Name",
+  "main": "list.test.js",
+  "scripts": {
+    "test": "jest --verbose --coverage",
+    "test-watch": "jest --watchAll --verbose --coverage",
+    "jsdoc": "jsdoc -c ./docs/config/jsdoc.config.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heyerthb/lab-002-classes-inheritence-functional-programming.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/heyerthb/lab-002-classes-inheritence-functional-programming/issues"
+  },
+  "homepage": "https://github.com/heyerthb/lab-002-classes-inheritence-functional-programming#readme",
+  "dependencies": {
+    "jest": "^24.9.0"
+  }
+}

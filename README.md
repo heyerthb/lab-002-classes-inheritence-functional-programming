@@ -6,7 +6,7 @@
 
 ### Links and Resources
 * [submission PR](http://xyz.com)
-* [travis](http://xyz.com)
+* [travis](https://travis-ci.com/heyerthb/lab-002-classes-inheritence-functional-programming)
 * [back-end](http://xyz.com) (when applicable)
 * [front-end](http://xyz.com) (when applicable)
 
