@@ -4,6 +4,7 @@
   "description": "## Project Name",
   "main": "list.test.js",
   "scripts": {
+    "stasrt": "node index.js",
     "test": "jest --verbose --coverage",
     "test-watch": "jest --watchAll --verbose --coverage",
     "lint": "eslint",
